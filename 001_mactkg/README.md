@@ -2,13 +2,14 @@
 
 ## この講義で知れること
 
+- 簡単なセキュリティに関する知識(w/@kkrnt)
 - GitHubの簡単な使い方
 - GitHubのアプリの使い方
 - Gitの簡単な使い方
 - GitHub ワークフロー
 - GitHubでよく見るあのファイルの正体
 - GitHubにあるアプリを簡単に試す方法
-- DockerについてとDockerの簡単な使い方
+- DockerについてとDockerの簡単な使い方(w/@3846masa, @kwzr)
 - CUI
 
 ## GitHub
