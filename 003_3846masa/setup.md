@@ -1,5 +1,13 @@
 # 事前準備
 
+## TOC
+- [Nodejsの準備](#nodejsの準備)
+  - [Windowsの場合](#windows-の場合)
+  - [Homebrewの場合](#mac-with-homebrew-の場合)
+  - [UNIXの場合](#macやlinux-の場合)
+- [エディタの準備](#エディタ)
+- [テンプレートファイル](#テンプレートファイル)
+
 ## Nodejsの準備
 Nodejsは[nodejs.org](https://nodejs.org/en/)からダウンロードできますが，バージョンによって仕様が違うため，バージョン管理ソフトウェアからインストールすると便利です．
 
@@ -7,15 +15,19 @@ Nodejsは[nodejs.org](https://nodejs.org/en/)からダウンロードできま�
 
 #### 1. ダウンロードする
 [marcelklehr/nodist](https://github.com/marcelklehr/nodist)を使います．
+
 まず，[marcelklehr/nodist](https://github.com/marcelklehr/nodist)にアクセスして ``Download Zip`` からダウンロードします．
+
 zipファイルがダウンロードできるので，その中身を ``C:\nodist`` に展開しましょう．
 
 #### 2. 環境変数を設定する
 環境変数の **PATH** に ``C:\nodist\bin;`` ， **NODIST_PREFIX** に ``C:\nodist`` を追加します．
+
 環境変数の追加の仕方は，[ここ](https://github.com/uzulla/how_to_setup_path_on_windows)が参考になります．
 
 #### 3. Nodejsの最新版をダウンロードする
 管理者権限でコマンドプロンプトを起動しましょう．
+
 参考：[Windows - 管理者権限でコマンドプロンプトを起動するショートカット - Qiita](http://qiita.com/takuya0301/items/df6cde3bbaf9e13ef8f0)
 
 nodistを使って最新版をインストールします．
@@ -63,14 +75,17 @@ nodebrew ls
 
 ## エディタ
 好きなエディタを使ってください．（ESLintの使えるエディタがよいでしょう）
+
 もしなければ，[Atom](https://atom.io/)か[VSCode](https://code.visualstudio.com/)のどちらかをインストールしてください．
 
 ### Atom
 [linter](https://atom.io/packages/linter)と[linter-eslint](https://atom.io/packages/linter-eslint)をインストールしてください．
-パッケージインストールはAtomの画面から``Ctrl + ,``で開きます．（macの場合は``Command + ,``
+
+パッケージインストールはAtomの画面から``Ctrl + ,``で開きます．（macの場合は``Command + ,``）
 
 ### VSCode
 v0.8.0からeslintが使えるようになりました．
+
 [ここ](https://code.visualstudio.com/Docs/editor/customization#_user-and-workspace-settings)を参考に次のように値を設定します．
 ```json
 {
@@ -79,5 +94,5 @@ v0.8.0からeslintが使えるようになりました．
 }
 ```
 
-### テンプレートファイル
+## テンプレートファイル
 準備中です．
