@@ -39,9 +39,9 @@ GitHubの使い方や、その周辺のエコシステムについて知って�
 ## GitHub
 - https://github.com/
 
-バージョン管理システム「Git」を使うのに必要なサーバや便利サービスを提供しているホスティングWebサービス。
-Gitで管理しているファイルのホスティングはもちろん、Pull Requestの仕組みやWiki、タスク管理のIssuesなど様々な機能を提供している。
-Webhookなどを活用すれば、各種Webサービスや自分で作ったサービスなどとも連携させることができる。
+バージョン管理システム「Git」を使うのに必要なサーバや便利サービスを提供しているホスティングWebサービスです。
+Gitで管理しているファイルのホスティングはもちろん、Pull Requestの仕組みやWiki、タスク管理のIssuesなど様々な機能を提供しています。
+Webhookなどを活用すれば、各種Webサービスや自分で作ったサービスなどとも連携させることができます。
 
 ### ぶらつきながら知るGitとGitHub
 - https://github.com/post-internet/onsen-2015-summer-textbook
