@@ -2,15 +2,29 @@
 
 ## この講義で知れること
 
-- 簡単なセキュリティに関する知識(w/@kkrnt)
-- GitHubの簡単な使い方
-- GitHubのアプリの使い方
-- Gitの簡単な使い方
-- GitHub ワークフロー
-- GitHubでよく見るあのファイルの正体
-- GitHubにあるアプリを簡単に試す方法
-- DockerについてとDockerの簡単な使い方(w/@3846masa, @kwzr)
-- CUI
+- 簡単なセキュリティ知識
+  - パスワード
+  - 公開鍵認証
+  - 二段階認証
+- おもしろ情報の入手先
+- 便利サイト
+- GitHubの使い方
+  - markdown
+  - コマンド: git pull, commit, push, clone
+  - CUI is required?: sourcetree or GitHub.app
+  - メタファイル: package.json, GemFile, gulpfile.js, bower.json, gruntfile.js
+  - その他のファイル: .gitignore, .travis.yml, license.txt
+  - ディレクトリ構造: bin, lib, src, docs, dist, examples
+  - 便利な機能: Issues, Pull Request, Wiki, Watches, Star, Pages
+  - example: p5.js(募集中)
+- Dockerfile?
+  - Dockerって何?
+  - Docker Toolbox
+  - VM
+  - VirtualBox
+  - Why docker?
+- Heroku
+  - Heroku button
 
 ## GitHub
 - https://github.com/
