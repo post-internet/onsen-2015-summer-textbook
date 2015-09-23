@@ -23,8 +23,6 @@
   - VM
   - VirtualBox
   - Why docker?
-- Heroku
-  - Heroku button
 
 ## Intro
 Webアプリケーション使ってますか? 作ってますか? 遊べてますか?
@@ -103,8 +101,7 @@ Webhookなどを活用すれば、各種Webサービスや自分で作ったサ�
   - docs, example, lib, src, testってそれぞれディレクトリの意味は?
 
 ## Docker
+- Dockerとは
+- 仮想化技術
 - Webアプリケーションを簡単に試す方法としてのDocker
-
- ## 開発者としてGitHubを使ってみる(?)
-- GitHub App
-
+- Kitematicの使い方
