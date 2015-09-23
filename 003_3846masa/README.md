@@ -14,3 +14,6 @@
 ## 目次
 - [事前に準備すること(setup.md)](setup.md)
 - [事前に知っておくとよいこと(knowledge.md)](knowledge.md)
+- 講義
+  - [通常講義](lectures/normal.md)
+  - [発展講義](lectures/expert.md)
