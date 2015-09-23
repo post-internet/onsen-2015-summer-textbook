@@ -637,8 +637,8 @@ console.log(`日本語をエンコード ${encodeURI('日本語')}`);
 ```javascript
 var children = document.body.children;
 console.log(children.forEach); // undefined
-childrenArray = Array.from(children);
-console.log(children.forEach); // function
+var childrenArray = Array.from(children);
+console.log(childrenArray.forEach); // function
 ```
 
 ### Object.assign
